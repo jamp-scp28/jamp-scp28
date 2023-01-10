@@ -9,7 +9,7 @@
 
 ### **What am I doing?**
 
-- 🤝 My current job: **Right now I'm working as a Fullstack Developer**
+- 🤝 My current job: **Right now I'm working as a Mid-Level Developer**
 
 - 🔭 I’m currently working on: [express-ecommerce](https://github.com/jamp-scp28/express_ecommerce)
 
