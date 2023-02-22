@@ -11,9 +11,7 @@
 
 - 🤝 My current job: **Right now I'm working as a Mid-Level Developer**
 
-- 🔭 I’m currently working on: [express-ecommerce](https://github.com/jamp-scp28/express_ecommerce)
-
-- 🌱 I’m currently learning: **C#, Typescript**
+- 🔭 I’m currently working on: C# Projects
 
 - 👨‍💻 All of my projects are available at: [https://jamp-sc.com/](https://jamp-sc.com/)
 
@@ -37,10 +35,9 @@ I'd had the opportunity to work, or being working with several tools and languag
 
 **Backend**
 
+<a href="https://learn.microsoft.com.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
 **Frontend**
 
