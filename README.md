@@ -9,7 +9,7 @@
 
 ### **What am I doing?**
 
-- 🤝 My current job: **Right now I'm working as a Mid-Level Developer**
+- 🤝 My current job: **Right now I'm working as a Software Developer**
 
 - 🔭 I’m currently working on: C# Projects
 
