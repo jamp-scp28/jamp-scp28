@@ -9,7 +9,7 @@
 
 ### **What am I doing?**
 
-- 🤝 My current job: **Happily and enjoying working as a SWE**
+- 🤝 My current job: **Happily enjoying my work as a SWE**
 
 ----------
 
