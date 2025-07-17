@@ -72,10 +72,6 @@ I'm a passionate **Software Engineer** with expertise in modern web technologies
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jamp-scp28&style=for-the-badge&color=radical" alt="Profile Views" />
-</div>
-
-<div align="center">
   
 ### 💭 My Favorite Quote
 *"Luck is what happens when preparation meets opportunity." - Seneca*
