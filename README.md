@@ -10,7 +10,7 @@ I'm a passionate **Software Engineer** with expertise in modern web technologies
 
 ### 👨‍💻 About Me
 - 🔭 I'm currently working on **innovative software solutions**
-- 🌱 I'm currently learning **Advanced Cloud Architecture & IAC, AI**
+- 🌱 I'm currently learning **Advanced Cloud Architecture, IAC and AI**
 - 💬 Ask me about **Web Development, .NET, Azure, and Software Architecture**
 - 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/jorge-ar-molano-a286b317b)**
 
@@ -57,7 +57,7 @@ I'm a passionate **Software Engineer** with expertise in modern web technologies
 
 - 🎯 **Building scalable microservices architectures**
 - 🚀 **Exploring cloud-native development patterns**
-- 📚 **Continuous learning in DevOps and automation**
+- 📚 **Continuous learning in DevOps, automation and ai**
 
 ---
 
